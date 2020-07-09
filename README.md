@@ -4,12 +4,6 @@ An eager to learn student with a keen interest in the fields of Data Science and
 
 Currently, I am doing my B.S.c in Computer Science, working as a student Software Developer, and exploring machine learning in my free time.
 
-Website: nhammad.github.io
-
-LinkedIn: linkedin.com/in/neehahammad
-
-Medium: medium.com/@dementorwriter
-
 <!--
 **nhammad/nhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
