@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm nhammad 👋
+
+An eager to learn student with a keen interest in the fields of Data Science and Software Development. Always willing to learn new tech-stack and work with a goal-oriented team! ✨🌟
+
+Currently, I am doing my B.S.c in Computer Science working as a student, and learning machine learning in my free time.
 
 <!--
 **nhammad/nhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
