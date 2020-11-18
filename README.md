@@ -2,7 +2,7 @@
 
 An eager to learn student with a keen interest in the fields of Data Science and Software Development. Always willing to learn new tech-stack and work with a goal-oriented team! ✨🌟
 
-Currently, I am doing my B.S.c in Computer Science, working as a student Software Developer, and exploring machine learning in my free time.
+Currently, I am doing my B.S.c in Computer Science, working as a student Data Scientist, and exploring machine learning in my free time.
 
 A few links:
 - 🚀 [Website](https://nhammad.github.io/)
