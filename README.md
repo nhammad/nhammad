@@ -7,7 +7,6 @@ Currently, I am doing my B.S.c in Computer Science, working as a student Data Sc
 A few links:
 - 🚀 [Website](https://nhammad.github.io/)
 - 🖋️ [Medium](https://medium.com/@dementorwriter)
-- 🖋️ [The Nation Blogs](https://nation.com.pk/blogger/neeha-hammad)
 - 📜 [LinkedIn](https://www.linkedin.com/in/neehahammad/)
 
 <!--
